@@ -1,0 +1,9 @@
+{
+  "name": "opencode-vercel-proxy",
+  "version": "1.0.0",
+  "description": "High-performance Vercel Edge proxy for OpenCode Free API with IP & session rotation",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
